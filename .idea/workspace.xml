@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd0dfb9-f92e-469f-b0bb-b0566b6b0d04" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../06 - Methods/coding_exercise_methods.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06 - Methods/coding_exercise_optional_parameters_and_default_arguments.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/bang_methods_on_strings.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/bang_methods_on_strings.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/case_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/case_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/extract_multiple_characters_from_a_string.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/extract_multiple_characters_from_a_string.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/intro_to_index_positions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/intro_to_index_positions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/overwrite_string_characters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/overwrite_string_characters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/string_concatenation_options.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/string_concatenation_options.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/the_insert_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/the_insert_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/the_length_and_size_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/the_length_and_size_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../09 - Strings I/the_reverse_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../09 - Strings I/the_reverse_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/fizzbuzz.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/fizzbuzz.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/recursion_i.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/recursion_i.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/recursion_ii.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/recursion_ii.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/the_break_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/the_break_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/the_next_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/the_next_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/the_until_loop.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/the_until_loop.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10 - Loops/the_while_loop.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../10 - Loops/the_while_loop.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 - Debugging/the_debugger_and_binding_break_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../11 - Debugging/the_debugger_and_binding_break_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 - Debugging/the_info_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../11 - Debugging/the_info_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11 - Debugging/the_step_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../11 - Debugging/the_step_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/access_and_overwrite_array_element_by_index_position.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/access_and_overwrite_array_element_by_index_position.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/access_and_overwrite_multiple_array_elements_with_bracket_syntax.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/access_and_overwrite_multiple_array_elements_with_bracket_syntax.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/access_array_element_with_the_fetch_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/access_array_element_with_the_fetch_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/access_multiple_array_elements_with_the_values_at_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/access_multiple_array_elements_with_the_values_at_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/equality_and_inequality_operations_with_arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/equality_and_inequality_operations_with_arrays.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/intro_to_arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/intro_to_arrays.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/nested_arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/nested_arrays.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/shorthand_%w_syntax_to_create_an_array_of_strings.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/shorthand_%w_syntax_to_create_an_array_of_strings.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_first_and_last_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_first_and_last_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_insert_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_insert_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_length_size_and_count_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_length_size_and_count_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_pop_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_pop_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_push_method_and_shovel_operator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_push_method_and_shovel_operator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_shift_and_unshift_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_shift_and_unshift_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12 - Arrays I/the_spaceship_operator.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../12 - Arrays I/the_spaceship_operator.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/alphabetical_ranges.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/alphabetical_ranges.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/convert_ranges_to_arrays.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/convert_ranges_to_arrays.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/extract_multiple_characters_or_elements.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/extract_multiple_characters_or_elements.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/intro_to_ranges.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/intro_to_ranges.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/random_numbers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/random_numbers.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13 - Ranges/the_case_statement_with_ranges.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../13 - Ranges/the_case_statement_with_ranges.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/each_within_each.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/each_within_each.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/filtering_with_the_each_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/filtering_with_the_each_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/iteration_over_array_with_while_or_until_loops.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/iteration_over_array_with_while_or_until_loops.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_each_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_each_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_each_with_index_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_each_with_index_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_find_and_detect_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_find_and_detect_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_for_loop.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_for_loop.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_index_and_find_index_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_index_and_find_index_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_map_and_collect_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_map_and_collect_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_max_and_min_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_max_and_min_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_partition_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_partition_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/the_select_and_reject_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/the_select_and_reject_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14 - Arrays II/unlimited_method_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../14 - Arrays II/unlimited_method_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_chars_and_each_char_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_chars_and_each_char_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_count_method_on_a_string.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_count_method_on_a_string.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_delete_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_delete_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_index_and_rindex_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_index_and_rindex_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_join_method_on_an_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_join_method_on_an_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15 - Strings II/the_split_method_on_a_string.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../15 - Strings II/the_split_method_on_a_string.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 - Object References and Copies/object_references.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 - Object References and Copies/object_references.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 - Object References and Copies/passing_objects_to_mutating_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 - Object References and Copies/passing_objects_to_mutating_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 - Object References and Copies/the_dup_and_clone_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 - Object References and Copies/the_dup_and_clone_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16 - Object References and Copies/the_freeze_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../16 - Object References and Copies/the_freeze_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/add_a_new_key_value_pair_to_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/add_a_new_key_value_pair_to_hash.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/check_for_inclusion_in_a_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/check_for_inclusion_in_a_hash.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/convert_hash_to_array_and_vice_versa.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/convert_hash_to_array_and_vice_versa.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/create_hash_with_default_value.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/create_hash_with_default_value.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/intro_to_hashes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/intro_to_hashes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/intro_to_symbols.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/intro_to_symbols.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/iterating_over_a_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/iterating_over_a_hash.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/populate_hash_and_extract_values_from_keys.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/populate_hash_and_extract_values_from_keys.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/reference_problems_with_Hash.new.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/reference_problems_with_Hash.new.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/ruby_3.1_property_assignment_syntax.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/ruby_3.1_property_assignment_syntax.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/symbols_as_hash_keys.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/symbols_as_hash_keys.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/the_delete_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/the_delete_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/the_merge_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/the_merge_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17 - Hashes/the_select_and_reject_methods_on_a_hash.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../17 - Hashes/the_select_and_reject_methods_on_a_hash.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/array_intersection_with_the_ampersand_symbol.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/array_intersection_with_the_ampersand_symbol.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/merge_arrays_and_exclude_duplicates.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/merge_arrays_and_exclude_duplicates.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/multiply_an_array_with_an_asterisk.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/multiply_an_array_with_an_asterisk.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/remove_array_items_that_exist_in_another_array.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/remove_array_items_that_exist_in_another_array.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_compact_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_compact_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_flatten_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_flatten_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_inject_and_reduce_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_inject_and_reduce_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_reverse_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_reverse_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_sample_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_sample_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_sort_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_sort_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18 - Arrays III/the_uniq_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../18 - Arrays III/the_uniq_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/a_custom_each_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/a_custom_each_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/block_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/block_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/block_return_values.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/block_return_values.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/differences_between_lambdas_and_procs.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/differences_between_lambdas_and_procs.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/intro_to_lambdas.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/intro_to_lambdas.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/methods_with_proc_parameters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/methods_with_proc_parameters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/more_proc_examples.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/more_proc_examples.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/procs.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/procs.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/review_of_blocks.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/review_of_blocks.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/the_yield_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../19 - Blocks, Procs, and Lambdas/the_yield_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/create_a_class.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/create_a_class.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/getter_methods_(read_methods).rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/getter_methods_(read_methods).rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/instance_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/instance_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/instance_variables_and_the_initialize_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/instance_variables_and_the_initialize_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/intro_to_classes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/intro_to_classes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/omitting_the_self_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/omitting_the_self_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/override_the_to_s_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/override_the_to_s_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/setter_methods_(write_methods).rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/setter_methods_(write_methods).rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/the_attr_accessor_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/the_attr_accessor_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/the_attr_reader_and_attr_writer_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/the_attr_reader_and_attr_writer_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/the_new_method_on_rubyΓÇÖs_native_objects.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/the_new_method_on_rubyΓÇÖs_native_objects.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20 - Classes I/the_self_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../20 - Classes I/the_self_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/add_validation_to_setter_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/add_validation_to_setter_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/alternative_class_method_syntax.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/alternative_class_method_syntax.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/building_a_class_over_time.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/building_a_class_over_time.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/class_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/class_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/class_variables.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/class_variables.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/derived_values.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/derived_values.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/monkey_patching.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/monkey_patching.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21 - Classes II/private_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../21 - Classes II/private_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22 - Keyword Arguments/hash_as_initialize_argument.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../22 - Keyword Arguments/hash_as_initialize_argument.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22 - Keyword Arguments/new_version_of_candidate_class_with_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../22 - Keyword Arguments/new_version_of_candidate_class_with_keyword_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22 - Keyword Arguments/optional_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../22 - Keyword Arguments/optional_keyword_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22 - Keyword Arguments/positional_arguments_and_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../22 - Keyword Arguments/positional_arguments_and_keyword_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22 - Keyword Arguments/required_keyword_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../22 - Keyword Arguments/required_keyword_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/check_inheritance_hierarchy_of_our_subclasses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/check_inheritance_hierarchy_of_our_subclasses.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/create_subclasses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/create_subclasses.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/defining_equality.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/defining_equality.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/duck_typing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/duck_typing.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/exclusive_instance_methods_in_subclasses.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/exclusive_instance_methods_in_subclasses.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/override_methods_in_a_subclass.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/override_methods_in_a_subclass.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/the_methods_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/the_methods_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/the_super_keyword_I.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/the_super_keyword_I.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/the_super_keyword_II.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/the_super_keyword_II.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23 - Classes III/the_superclass_and_ancestors_class_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../23 - Classes III/the_superclass_and_ancestors_class_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/another_file.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/another_file.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/command_line_arguments.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/command_line_arguments.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/load_a_ruby_file_with_load_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/load_a_ruby_file_with_load_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/read_from_a_text_file.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/read_from_a_text_file.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/rename_and_delete_a_file.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/rename_and_delete_a_file.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/the_require_and_require_relative_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/the_require_and_require_relative_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24 - Input and Output/write_to_a_text_file.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../24 - Input and Output/write_to_a_text_file.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/high_quality.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/high_quality.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/low_quality.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/low_quality.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/multiple_declarations_for_the_same_module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/downloadable/multiple_declarations_for_the_same_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/import_modules_into_the_current_file.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/import_modules_into_the_current_file.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/intro_to_modules.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/intro_to_modules.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/mixing_in_multiple_modules.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/mixing_in_multiple_modules.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/mixing_in_our_own_module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/mixing_in_our_own_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/modules_with_identical_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/modules_with_identical_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/modules_within_modules.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/modules_within_modules.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/rectangle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/rectangle.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/square.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/square.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_ancestors_method_in_depth.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_ancestors_method_in_depth.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_comparable_mixin.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_comparable_mixin.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_enumerable_mixin.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_enumerable_mixin.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_extend_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_extend_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_math_module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_math_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_prepend_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_prepend_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25 - Modules and Mixins/the_uri_and_net_http_module.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../25 - Modules and Mixins/the_uri_and_net_http_module.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26 - Sets/add_and_delete_items_from_set.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../26 - Sets/add_and_delete_items_from_set.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26 - Sets/intro_to_sets.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../26 - Sets/intro_to_sets.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/add_or_subtract_time.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/add_or_subtract_time.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/convert_time_object_to_formatted_string.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/convert_time_object_to_formatted_string.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/the_comparable_methods_on_a_time_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/the_comparable_methods_on_a_time_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/the_date_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/the_date_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/the_parse_and_strptime_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/the_parse_and_strptime_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27 - Datetime/the_time_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../27 - Datetime/the_time_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/anchors.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/anchors.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/exclude_characters.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/exclude_characters.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/intro_to_regular_expressions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/intro_to_regular_expressions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/the_digit_symbol.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/the_digit_symbol.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/the_scan_method.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/the_scan_method.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/the_sub_and_gsub_methods_with_regular_expressions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/the_sub_and_gsub_methods_with_regular_expressions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28 - Regular Expressions/the_wildcard_symbol.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../28 - Regular Expressions/the_wildcard_symbol.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/catching_error_object.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/catching_error_object.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/custom_exceptions.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/custom_exceptions.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/the_begin_and_rescue_keywords.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/the_begin_and_rescue_keywords.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/the_ensure_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/the_ensure_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/the_raise_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/the_raise_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/the_retry_keyword.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/the_retry_keyword.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29 - Exceptions/using_begin_and_rescue_at_top_level.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../29 - Exceptions/using_begin_and_rescue_at_top_level.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/assert_error_was_raised.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/assert_error_was_raised.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/assert_inclusion.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/assert_inclusion.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/final_argument_to_assertion_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/final_argument_to_assertion_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/intro_to_testing.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/intro_to_testing.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/testing_a_class.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/testing_a_class.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30 - Testing with Minitest/the_setup_and_teardown_methods.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../30 - Testing with Minitest/the_setup_and_teardown_methods.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31 - Reading and Writing Documentation/use_rdoc_to_generate_your_own_documentation_i.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../31 - Reading and Writing Documentation/use_rdoc_to_generate_your_own_documentation_i.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2y0hcPUusMr7o1wPZlaVh9TJrwz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/anapm/OneDrive/Desktop/Ruby-on-Rails/Ruby/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd0dfb9-f92e-469f-b0bb-b0566b6b0d04" name="Changes" comment="" />
+      <created>1748977478086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748977478086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
